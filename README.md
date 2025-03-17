@@ -1,6 +1,6 @@
 lista de desarrollo
 
-desarrollador 1 : Wilder quelca quispe   
-desarrollador 2 : Gerson Mercado Tumiri  
-desarrollador 3 : Sergio Gabriel Soto Hilari   
-desarrollador 4 : 
+desarrollador 0 : Wilder quelca quispe   
+desarrollador 1 : Gerson Mercado Tumiri  
+desarrollador 2 : Sergio Gabriel Soto Hilari   
+desarrollador 3 : 
